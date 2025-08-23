@@ -25,7 +25,7 @@ variable "components" {
     }
 
       frontend = {
-        component = "cart"
+        component = "frontend"
         rule_priority = 10
     }
   }
